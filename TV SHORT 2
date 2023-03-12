@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,, DESCARGA LISTAS M3U
-https://video.wixstatic.com/video/f09cbb_0858fce77b76424b88a641a05b581117/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zOiOeqG.png" group-title="Gratis",shortgod.com
+http://shortgod.com/canaldisponible.mp4
 #EXTINF:-1,Aaahhh!!! Monstruos 24/7
 http://flash.shortgod.com/2023prendido/tv5.php?id=12057
 #EXTINF:-1,Acapulco Shore 24/7
