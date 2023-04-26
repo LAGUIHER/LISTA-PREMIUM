@@ -1,501 +1,75 @@
-#EXTM3U 
+#EXTM3U
 #EXTINF:-1, DESCARGA LISTAS M3U
 https://video.wixstatic.com/video/f09cbb_0858fce77b76424b88a641a05b581117/720p/mp4/file.mp4
-#EXTINF:-1 group-title="Lista MX1",BITME HD
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2591&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",BITME 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2591&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",TOONCAST HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=328&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",TOONCAST
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=328&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",TOONCAST 3 HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=303&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",DISCOVERY KIDS 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=303&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",NICK HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=315&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",NICK 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=315&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",CARTOON NETWORK HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=320&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",CARTOON NETWORK 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=320&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",DISNEY CHANNEL HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=312&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",DISNEY CHANNEL 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=312&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",NICK JR HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=310&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",NICK JR 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=310&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",DISNEY JR HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=308&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",DISNEY JR 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=308&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",BABY FIRST HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=1984&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",BABY FIRST 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=1984&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",TEENNICK HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2147&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",TEENNICK 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2147&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",MTV LIVE HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=701&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",MTV LIVE 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=701&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",MTV HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=726&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",MTV 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=726&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",MTV HITS HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=727&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",MTV HITS 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=727&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",MTV 80 HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=728&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",MTV 80 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=728&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",MTV 00 HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=703&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",MTV 00 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=703&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",TELE HIT MUSICA HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=731&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",TELE HIT MUSICA 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=731&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",TELE HIT + HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=702&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",TELE HIT + 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=702&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",BANDAMAX HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=732&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",BANDAMAX 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=732&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",NICKMUSICK HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=314&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",NICKMUSICK 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=314&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",LIFETIME HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=379&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",LIFETIME 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=379&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",E HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=255&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",E 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=255&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",MAS CHICS HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=303&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",MAS CHICS 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=303&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",GARAGE TV HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=269&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",GARAGE TV 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=269&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",DISCOVERY CHANNEL HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=371&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",DISCOVERY CHANNEL 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=371&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",DISCOVERY TURBO HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2379&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",DISCOVERY TURBO 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2379&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",DISCOVERY TEATER HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=351&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",DISCOVERY TEATER 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=351&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",DISCOVERY ID HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2376&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",DISCOVERY ID 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2376&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",DISCOVERY H&H HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=374&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",DISCOVERY H&H 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=374&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",DISCOVERY SCIENCE HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=381&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",DISCOVERY SCIENCE 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=381&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",DISCOVERY WORLD HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=356&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",DISCOVERY WORLD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=356&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",DW HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=654&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",DW 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=654&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",ANIMAL PLANET HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2378&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",ANIMAL PLANET 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2378&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",HISTORY HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=353&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",HISTORY 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=353&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",NAT GEO HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=377&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",NAT GEO 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=377&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",TLC HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2380&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",TLC 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2380&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",TVE HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=651&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",TVE 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=651&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",SHOPPING HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2378&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",SHOPPING 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2378&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",FOOD NETWORK HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2145&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",FOOD NETWORK 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2145&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",STAR TVE HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2375&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",STAR TVE
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2375&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",CURIOSITY STREAM HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2594&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",CURIOSITY STREAM 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2594&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",GOURMET HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=268&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",GOURMET 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=268&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",ESPN EXTRA 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=516&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",ESPN EXTRA 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=516&p=1&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",ESPN HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=561&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",ESPN 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=561&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",ESPN HD
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=520&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",ESPN 3 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=520&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",FOX DEPORTES HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=522&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",FOX SPORTS MX 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=522&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",FOX SPORTS HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=527&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",FOX SPORTS 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=527&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",FOX SPORTS 3 HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=178&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",FOX SPORTS 3 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=178&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",TUDN USA HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=179&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",GOLF CHANNEL 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=179&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",AMY SPORTS HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=576&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",AMY SPORTS 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=576&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",ADRENALINA HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=1799&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",ADRENALINA 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=1799&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",LAS HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2089&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",LAS 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2089&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",TVC DEPORTES HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2157&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",TVC DEPORTES 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2157&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",CLARO SPORTS HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2564&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",CLARO SPORTS 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2564&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",FUEL TV HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2587&p=5&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1",FUEL TV 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2587&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",AZTECA UNO HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=113&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",AZTECA UNO 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=113&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",AZTECA MUNDO HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=276&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",AZTECA MUNDO 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=276&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",AZTECA CLIC HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=725&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",AZTECA CLIC 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=725&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",AZTECA 7 HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=107&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",AZTECA 7 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=107&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",AZTECA CORAZON HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=250&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",AZTECA CORAZON 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=250&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",AZTECA CINEMA HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=425&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",AZTECA CINEMA 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=425&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",A + HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2316&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",A + 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2316&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",LAS ESTRELLAS HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=102&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",LAS ESTRELLAS 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=102&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",TLNOVELAS HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=275&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",TLNOVELAS 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=275&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",CANAL 5 HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=105&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",CANAL 5 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=105&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",CANAL 9 HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=109&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",CANAL 9 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=109&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",DISTRITO COMEDIA HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=272&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",DISTRITO COMEDIA 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=272&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",TELEMUNDO HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=85&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",TELEMUNDO 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=85&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",ONCE TV HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=111&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",ONCE TV 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=111&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",TELEFORMULA HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=161&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",TELEFORMULA
- http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=161&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",MEXIQUENSE HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=44&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",MEXIQUENSE 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=44&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",IMAGEN TV HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2298&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",IMAGEN TV 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2298&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",APRENDE TV HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=401&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",APRENDE TV 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=401&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",MULTIMEDIOS MTY HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2305&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",MULTIMEDIOS MTY 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2305&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",MULTIMEDIOS CDMX HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=167&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",MULTIMEDIOS CDMX 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=167&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",MULTIMEDIOS HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2305&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",MULTIMEDIOS 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2305&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",CANAL 8 HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2307&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",CANAL 8 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2307&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",TELEVISA PUEBLA HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2312&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",TELEVISA PUEBLA 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2312&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",TV MAS 
-https://5ca9af4645e15.streamlock.net:443/rtv/videortv/playlist&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",EL CONGRESO HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2331&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",EL CONGRESO 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2331&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",FORO TV HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=104&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",FORO TV 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=104&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",ADN 40 HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=140&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",ADN 40
- http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=140&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",CNN HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=185&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",CNN 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=185&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",CNÑ HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=187&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",CNÑ 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=187&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",WOBI HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=387&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",WOBI 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=387&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",FOX NEWS HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=188&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",FOX NEWS 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=188&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",BLOMBERG HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=190&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",BLOMBERG 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=190&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",BBC HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=191&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",BBC 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=191&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",AL JAZZERA HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=192&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",AL JAZZERA 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=192&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",NTN4 HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=194&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",NTN4 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=194&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",HLN HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=197&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",HLN 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=197&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",RT HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=999&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",RT 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=999&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",RT ESPAÑOL HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2091&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",RT ESPAÑOL 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2091&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",EXCELCIOR HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=1449&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",EXCELCIOR 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=1449&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",FRANCE4 HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2402&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",FRANCE4 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=2402&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",ANTENA 3 HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=199&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",ANTENA 3 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=199&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",TRUTV HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=215&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",TRUTV 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=215&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",HOLA TV HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=219&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",HOLA TV 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=219&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",TBS HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=273&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",TBS 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=273&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",DE PELICULA PLUS HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=442&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",DE PELICULA PLUS 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=442&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",DE PELICULA HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=335&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",DE PELICULA 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=335&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",GOLDEN PLUS HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=436&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",GOLDEN PLUS 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=436&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",GOLDEN HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=123&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",GOLDEN 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=123&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",GOLDEN EDGE HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=484&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",GOLDEN EDGE 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=484&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",TNT 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=435&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",TNT HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=435&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",TNT SERIES HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=266&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",TNT SERIES 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=266&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",TCM HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=496&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",TCM 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=496&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",SPACE HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=445&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",SPACE 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=445&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",AMC HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=444&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",AMC 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=444&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",STUDIO UNIVERSAL 
-HD http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=492&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",STUDIO UNIVERSAL 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=492&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",I SAT HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=495&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",I SAT 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=495&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",EUROPA CHANNEL HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=136&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",EUROPA CHANNEL 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=136&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",FILM&ART HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=137&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",FILM&ART 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=137&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",MORBIDO HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=470&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",MORBIDO 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=470&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",CINECANAL HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=430&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",CINECANAL 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=430&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",CINEMAX HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=481&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",CINEMAX 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=481&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",COMEDY CENTRAL 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=217&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",COMEDY CENTRAL HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=217&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",PARAMOUNT CHANNEL HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=1726&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",PARAMOUNT CHANNEL 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=1726&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",STAR CHANNEL HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=201&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",STAR CHANNEL 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=201&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",SONY CHANNEL HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=203&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",SONY CHANNEL 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=203&p=3&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1",WARNER CHANNEL HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=205&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",WARNER CHANNEL 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=205&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",UNIVERSAL CHANNEL HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=207&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",UNIVERSAL CHANNEL 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=207&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",SYFY HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=257&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",SYFY 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=257&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",FX HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=209&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",FX 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=209&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",A&E HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=211&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",A&E 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=211&p=3&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",GLITZ HD 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=270&p=5&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX1",GLITZ 
-http://bgtv.site/play/totalp1s-403.php?token=blacckkghost&c=270&p=3&f=.m3u8 
+#EXTINF:-1 group-title="Lista MX2", AZTECA UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 group-title="Lista MX2", AZTECA 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 group-title="Lista MX2", AZTECA 7.2
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 group-title="Lista MX2", ADN40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 group-title="Lista MX2", CANAL 26 AGUASCALIENTES
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
+#EXTINF:-1 group-title="Lista MX2", AZTECA 7
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=107&f=.m3u8
+#EXTINF:-1 group-title="Lista MX2", ANTENA 3 INT
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=199&f=.m3u8
+#EXTINF:-1 group-title="Lista MX2", COMEDY CENTRAL
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=217&f=.m3u8
+#EXTINF:-1 group-title="Lista MX2", UNICABLE
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=218&f=.m3u8
+#EXTINF:-1 group-title="Lista MX2", HOLA TV
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=219&f=.m3u8
+#EXTINF:-1 group-title="Lista MX2", MAS CHIC
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=221&f=.m3u8
+#EXTINF:-1 group-title="Lista MX2", NICK MUSIC
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=314&f=.m3u8
+#EXTINF:-1 group-title="Lista MX2", NICK
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=315&f=.m3u8
+#EXTINF:-1 group-title="Lista MX2", D PELICULA
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=335&f=.m3u8
+#EXTINF:-1 group-title="Lista MX2", NAT GEO
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=377&f=.m3u8
+#EXTINF:-1 group-title="Lista MX2", DESCONOCIDO
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=401&f=.m3u8
+#EXTINF:-1 group-title="Lista MX2", AZ CINEMA
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=425&f=.m3u8
+#EXTINF:-1 group-title="Lista MX2", AMC
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=444&f=.m3u8
+#EXTINF:-1 group-title="Lista MX2", ESPN 3
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=520&f=.m3u8
+#EXTINF:-1 group-title="Lista MX2", PX SPORTS
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=528&f=.m3u8
+#EXTINF:-1 group-title="Lista MX2", TVE
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=651&f=.m3u8
+#EXTINF:-1 group-title="Lista MX2", DW
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=654&f=.m3u8
+#EXTINF:-1 group-title="Lista MX2", MTV LIVE
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=701&f=.m3u8
+#EXTINF:-1 group-title="Lista MX2", TELEHIT MUSICA PLUS
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=702&f=.m3u8
+#EXTINF:-1 group-title="Lista MX2", MTV 00S
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=703&f=.m3u8
+#EXTINF:-1 group-title="Lista MX2", AZ CLIC
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=725&f=.m3u8
+#EXTINF:-1 group-title="Lista MX2", MTV
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=726&f=.m3u8
+#EXTINF:-1 group-title="Lista MX2", MTV HITS
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=727&f=.m3u8
+#EXTINF:-1 group-title="Lista MX2", MTV 80S
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=728&f=.m3u8
+#EXTINF:-1 group-title="Lista MX2", TELEHIT MUSICA
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=731&f=.m3u8
+#EXTINF:-1 group-title="Lista MX2", BANDAMAX
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=732&f=.m3u8
+#EXTINF:-1 group-title="Lista MX2", MTV 00S
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=735&f=.m3u8
+#EXTINF:-1 group-title="Lista MX2", RT
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=999&f=.m3u8
+#EXTINF:-1 group-title="Lista MX2", EXCELSIORTV
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=1449&f=.m3u8
+#EXTINF:-1 group-title="Lista MX2", NAT GEO
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=1640&f=.m3u8
+#EXTINF:-1 group-title="Lista MX2", PARAMUNT CHANNEL
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=1726&f=.m3u8
