@@ -1,0 +1,281 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1 LAGUIER TV",LAGUIHER TV
+https://video.wixstatic.com/video/f09cbb_0858fce77b76424b88a641a05b581117/720p/mp4/file.mp4
+#EXTINF:-1 tvg-id="" tvg-name="➤ Sport" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="Spain",➤ Sport
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/225741
+#EXTINF:-1 tvg-id="" tvg-name="ES: #VAMOS" tvg-logo="http://myserveriptv.com:2082/images/61744f262707dd9085f1cc556c0f108b.png" group-title="Spain",ES: #VAMOS
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/160491
+#EXTINF:-1 tvg-id="" tvg-name="ES: #Vamos HD" tvg-logo="http://myserveriptv.com:2082/images/61744f262707dd9085f1cc556c0f108b.png" group-title="Spain",ES: #Vamos HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136122
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV Bar Spain" tvg-logo="http://myserveriptv.com:2082/images/cf19734aa10a23bbf0739cfcf05d8666.png" group-title="Arab Sports رياضة عربي",LaLiga TV Bar Spain
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/135958
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga Spain" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="Arab Sports رياضة عربي",Movistar LaLiga Spain
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/135959
+#EXTINF:-1 tvg-id="" tvg-name="ES: TeleDeporte" tvg-logo="http://myserveriptv.com:2082/images/519b820c712f0b3794d7db0e3a4ae33c.png" group-title="Spain",ES: TeleDeporte
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136003
+#EXTINF:-1 tvg-id="beINSportsLaLiga.us" tvg-name="beIN SPORTS LaLiga" tvg-logo="http://myserveriptv.com:2082/images/886b13d53c3ffe929aa06192381d82f6.png" group-title="Spain",beIN SPORTS LaLiga
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/40702
+#EXTINF:-1 tvg-id="" tvg-name="ES: Liga Campeones" tvg-logo="http://myserveriptv.com:2082/images/9900e4f0f336730dd1660cd3ee2c6c6a.png" group-title="Spain",ES: Liga Campeones
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/135970
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Deportes" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="Spain",ES: Movistar Deportes
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/135980
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Deportes 1" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="Spain",ES: Movistar Deportes 1
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/135981
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Deportes 2" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="Spain",ES: Movistar Deportes 2
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/135982
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Deportes 3" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="Spain",ES: Movistar Deportes 3
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/135983
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Deportes 4" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="Spain",ES: Movistar Deportes 4
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/135984
+#EXTINF:-1 tvg-id="" tvg-name="ES: Toros" tvg-logo="http://myserveriptv.com:2082/images/f2778828f85e87d4251c55258f5d0dae.png" group-title="Spain",ES: Toros
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136048
+#EXTINF:-1 tvg-id="" tvg-name="ES: El Toro TV" tvg-logo="http://myserveriptv.com:2082/images/1f9f006b84d97973bb691594d96c2bc9.png" group-title="Spain",ES: El Toro TV
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207094
+#EXTINF:-1 tvg-id="" tvg-name="ES: Real Madrid TV" tvg-logo="http://myserveriptv.com:2082/images/666e188ff878c6696f692e62dee91d12.png" group-title="Spain",ES: Real Madrid TV
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136010
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Barca TV" tvg-logo="http://myserveriptv.com:2082/images/1f9cb5817ed464188ef8fc910526d707.png" group-title="Spain",ES: Canal Barca TV
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136011
+#EXTINF:-1 tvg-id="" tvg-name="ES: Gol TV" tvg-logo="http://myserveriptv.com:2082/images/5b48aaf031e20dbd259d222312def4f9.png" group-title="Spain",ES: Gol TV
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136002
+#EXTINF:-1 tvg-id="" tvg-name="ES: Eurosport 1" tvg-logo="http://myserveriptv.com:2082/images/a56b375decdf31dd9bdb340f4bbba879.png" group-title="Spain",ES: Eurosport 1
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136008
+#EXTINF:-1 tvg-id="" tvg-name="ES: Eurosport 2" tvg-logo="http://myserveriptv.com:2082/images/cef51f2de50295b33af5bc872ed9ead6.png" group-title="Spain",ES: Eurosport 2
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136009
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Golf" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="Spain",ES: Movistar Golf
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/135992
+#EXTINF:-1 tvg-id="" tvg-name="Movistar DAZN Formula 1 Spain" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="Arab Sports رياضة عربي",Movistar DAZN Formula 1 Spain
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/135991
+#EXTINF:-1 tvg-id="" tvg-name="Movistar DAZN 1 Spain" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="Arab Sports رياضة عربي",Movistar DAZN 1 Spain
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/135989
+#EXTINF:-1 tvg-id="" tvg-name="Movistar DAZN 2 Spain" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="Arab Sports رياضة عربي",Movistar DAZN 2 Spain
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/135990
+#EXTINF:-1 tvg-id="" tvg-name="Movistar DAZN 3 Spain" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="Arab Sports رياضة عربي",Movistar DAZN 3 Spain
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207568
+#EXTINF:-1 tvg-id="" tvg-name="Movistar DAZN 4 Spain" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="Arab Sports رياضة عربي",Movistar DAZN 4 Spain
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207566
+#EXTINF:-1 tvg-id="" tvg-name="ES: Multideporte" tvg-logo="http://myserveriptv.com:2082/images/8927025aee294c46afb0c3451c3a45cc.png" group-title="Spain",ES: Multideporte
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/135979
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar LaLiga Multi 1" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="Spain",ES: Movistar LaLiga Multi 1
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/135960
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar LaLiga Multi 2" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="Spain",ES: Movistar LaLiga Multi 2
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/135962
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar LaLiga Multi 3" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="Spain",ES: Movistar LaLiga Multi 3
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207550
+#EXTINF:-1 tvg-id="" tvg-name="ES: Liga De Campeones 1" tvg-logo="http://myserveriptv.com:2082/images/9900e4f0f336730dd1660cd3ee2c6c6a.png" group-title="Spain",ES: Liga De Campeones 1
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/135971
+#EXTINF:-1 tvg-id="" tvg-name="ES: Liga De Campeones 2" tvg-logo="http://myserveriptv.com:2082/images/9900e4f0f336730dd1660cd3ee2c6c6a.png" group-title="Spain",ES: Liga De Campeones 2
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/135972
+#EXTINF:-1 tvg-id="" tvg-name="ES: Liga De Campeones 3" tvg-logo="http://myserveriptv.com:2082/images/9900e4f0f336730dd1660cd3ee2c6c6a.png" group-title="Spain",ES: Liga De Campeones 3
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/135973
+#EXTINF:-1 tvg-id="" tvg-name="ES: Liga De Campeones 4" tvg-logo="http://myserveriptv.com:2082/images/9900e4f0f336730dd1660cd3ee2c6c6a.png" group-title="Spain",ES: Liga De Campeones 4
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/135974
+#EXTINF:-1 tvg-id="" tvg-name="ES: Liga De Campeones 5" tvg-logo="http://myserveriptv.com:2082/images/9900e4f0f336730dd1660cd3ee2c6c6a.png" group-title="Spain",ES: Liga De Campeones 5
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207553
+#EXTINF:-1 tvg-id="" tvg-name="➤ National" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="Spain",➤ National
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/226103
+#EXTINF:-1 tvg-id="" tvg-name="ES: La 1" tvg-logo="http://myserveriptv.com:2082/images/c97bdb6e735d14daf1f10653614ed426.png" group-title="Spain",ES: La 1
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136018
+#EXTINF:-1 tvg-id="" tvg-name="ES: La 2" tvg-logo="http://myserveriptv.com:2082/images/404154f0271c39a01f2b28dc19cde826.png" group-title="Spain",ES: La 2
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136019
+#EXTINF:-1 tvg-id="" tvg-name="ES: La Sexta" tvg-logo="http://myserveriptv.com:2082/images/7f0efaeea4d76e2cf50b300f162ffd10.png" group-title="Spain",ES: La Sexta
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136024
+#EXTINF:-1 tvg-id="" tvg-name="ES: Antena 3" tvg-logo="http://myserveriptv.com:2082/images/c7bd05dac6bbb5b805f7360ab0f3a2a6.png" group-title="Spain",ES: Antena 3
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136021
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nova" tvg-logo="http://myserveriptv.com:2082/images/eed3dabbc449042e4e21d73688fd199c.png" group-title="Spain",ES: Nova
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136032
+#EXTINF:-1 tvg-id="" tvg-name="ES: Odisea" tvg-logo="http://myserveriptv.com:2082/images/b5bf707e5e8999766de8b8a5cb9db935.png" group-title="Spain",ES: Odisea
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136033
+#EXTINF:-1 tvg-id="" tvg-name="ES: Neox" tvg-logo="http://myserveriptv.com:2082/images/c3353eae34c32c58b01c4a51a6e0180a.png" group-title="Spain",ES: Neox
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136035
+#EXTINF:-1 tvg-id="" tvg-name="➤ Entertainment" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="Spain",➤ Entertainment
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/225739
+#EXTINF:-1 tvg-id="" tvg-name="ES: TeleCinco" tvg-logo="http://myserveriptv.com:2082/images/65b13bd602deed7b6d018ff516609090.png" group-title="Spain",ES: TeleCinco
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136023
+#EXTINF:-1 tvg-id="" tvg-name="ES: Comedy Central" tvg-logo="http://myserveriptv.com:2082/images/d85df652c2f313b2e66b5489e59774b0.png" group-title="Spain",ES: Comedy Central
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136043
+#EXTINF:-1 tvg-id="" tvg-name="ES: Decasa TV" tvg-logo="http://myserveriptv.com:2082/images/df1e82cc51a31700f59a226b45403643.png" group-title="Spain",ES: Decasa TV
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136044
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Cocina" tvg-logo="http://myserveriptv.com:2082/images/3c1b86696f33c6eec1c9eb58457d58bf.png" group-title="Spain",ES: Canal Cocina
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136045
+#EXTINF:-1 tvg-id="" tvg-name="ES: Energy" tvg-logo="http://myserveriptv.com:2082/images/a398fcd102d31df9a4b31bd4b512c6e0.png" group-title="Spain",ES: Energy
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136030
+#EXTINF:-1 tvg-id="" tvg-name="ES: Blaze" tvg-logo="http://myserveriptv.com:2082/images/17762c6382ad7059da100aa8ac8a39eb.png" group-title="Spain",ES: Blaze
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136031
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmo" tvg-logo="http://myserveriptv.com:2082/images/7adb6a760ccab25440198ad1faa4b2f8.png" group-title="Spain",ES: Cosmo
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136046
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC" tvg-logo="http://myserveriptv.com:2082/images/7c52ed5b8820b7dfd90b5a784bac64b3.png" group-title="Spain",ES: AMC
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136052
+#EXTINF:-1 tvg-id="" tvg-name="ES: Fox" tvg-logo="http://myserveriptv.com:2082/images/68c7baa5e7f979c4e8806dc871e98929.png" group-title="Spain",ES: Fox
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136057
+#EXTINF:-1 tvg-id="" tvg-name="ES: Fox Life" tvg-logo="http://myserveriptv.com:2082/images/18e7501ce3d86d40bd74ea8e861acec4.png" group-title="Spain",ES: Fox Life
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136058
+#EXTINF:-1 tvg-id="" tvg-name="ES: Caza Y Pesca" tvg-logo="http://myserveriptv.com:2082/images/fd1d2cc04d8735f62ee690a1f545ed26.png" group-title="Spain",ES: Caza Y Pesca
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136059
+#EXTINF:-1 tvg-id="" tvg-name="ES: Iberalia" tvg-logo="http://myserveriptv.com:2082/images/546a366138633b70c72e725a0eca659c.png" group-title="Spain",ES: Iberalia
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136061
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Extremadura" tvg-logo="http://myserveriptv.com:2082/images/2c687cbcca23b114d4f5be1ea37f9968.png" group-title="Spain",ES: Canal Extremadura
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207587
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dmax" tvg-logo="http://myserveriptv.com:2082/images/08bc430a98448ce2eddeb713d56acc60.png" group-title="Spain",ES: Dmax
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207595
+#EXTINF:-1 tvg-id="" tvg-name="ES: A3 Series" tvg-logo="http://myserveriptv.com:2082/images/35b448ce9001e9289b1721f6cf0737f2.png" group-title="Spain",ES: A3 Series
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136062
+#EXTINF:-1 tvg-id="" tvg-name="ES: TCM" tvg-logo="http://myserveriptv.com:2082/images/138fc9e245a72e426b49a7fdf299a7e9.png" group-title="Spain",ES: TCM
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/76388
+#EXTINF:-1 tvg-id="" tvg-name="ES: Paramount Channel" tvg-logo="http://myserveriptv.com:2082/images/f5dc2922e247892e44d4fc43f54b2e0f.png" group-title="Spain",ES: Paramount Channel
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/86436
+#EXTINF:-1 tvg-id="" tvg-name="ES: Hollywood" tvg-logo="http://myserveriptv.com:2082/images/13a224ef920af18191b809f1a9d48c19.png" group-title="Spain",ES: Hollywood
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136064
+#EXTINF:-1 tvg-id="" tvg-name="ES: SyFy" tvg-logo="http://myserveriptv.com:2082/images/23f7adcffda04234527b4461310e401b.png" group-title="Spain",ES: SyFy
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136080
+#EXTINF:-1 tvg-id="" tvg-name="ES: TNT" tvg-logo="http://myserveriptv.com:2082/images/82b84db3802162cfd6409a4591f8a4c5.png" group-title="Spain",ES: TNT
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136082
+#EXTINF:-1 tvg-id="" tvg-name="ES: Xtrm" tvg-logo="http://myserveriptv.com:2082/images/47933ec69aecb994eb5a7026bb39c10b.png" group-title="Spain",ES: Xtrm
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136083
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cazavision" tvg-logo="http://myserveriptv.com:2082/images/e516d49360d328ae4b2bda40fc55959c.png" group-title="Spain",ES: Cazavision
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207590
+#EXTINF:-1 tvg-id="" tvg-name="ES: La Resistencia" tvg-logo="http://myserveriptv.com:2082/images/e8ab088f3418400048619ca0a70c7628.png" group-title="Spain",ES: La Resistencia
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207599
+#EXTINF:-1 tvg-id="" tvg-name="ES: TEN" tvg-logo="http://myserveriptv.com:2082/images/ba17783a0815bcb013e3cce85e96a780.png" group-title="Spain",ES: TEN
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207613
+#EXTINF:-1 tvg-id="" tvg-name="ES: Teve Cat" tvg-logo="http://myserveriptv.com:2082/images/f46621be00b525f2e802976587abfda5.png" group-title="Spain",ES: Teve Cat
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207615
+#EXTINF:-1 tvg-id="" tvg-name="ES: Trece" tvg-logo="http://myserveriptv.com:2082/images/10a76274aee0dfd32b986faa096a1087.png" group-title="Spain",ES: Trece
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207616
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVG" tvg-logo="http://myserveriptv.com:2082/images/f4c81b63a06f2eb2c5244127acdc3cd6.png" group-title="Spain",ES: TVG
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207617
+#EXTINF:-1 tvg-id="" tvg-name="➤ Music" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="Spain",➤ Music
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/225744
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV España" tvg-logo="http://myserveriptv.com:2082/images/b49882eae96bb41a7fa1feb6aa7acc18.png" group-title="Spain",ES: MTV España
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136100
+#EXTINF:-1 tvg-id="" tvg-name="ES: Music Top" tvg-logo="http://myserveriptv.com:2082/images/60b129db2133fff396c7aec659a6526e.png" group-title="Spain",ES: Music Top
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136104
+#EXTINF:-1 tvg-id="" tvg-name="ES: U-Beat" tvg-logo="http://myserveriptv.com:2082/images/b26b34e66ede0a898d6dc9ff7f7ba747.png" group-title="Spain",ES: U-Beat
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207560
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dreamworks" tvg-logo="http://myserveriptv.com:2082/images/841d31839252048b0c4d635a28ed9ecc.png" group-title="Spain",ES: Dreamworks
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207565
+#EXTINF:-1 tvg-id="" tvg-name="ES: A Punt" tvg-logo="http://myserveriptv.com:2082/images/335aa259d605c84c33327846aebfe5cd.png" group-title="Spain",ES: A Punt
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207569
+#EXTINF:-1 tvg-id="" tvg-name="ES: Alcarria TV" tvg-logo="http://myserveriptv.com:2082/images/e5cc4317ecd98d45b2b54a17ae37f30c.png" group-title="Spain",ES: Alcarria TV
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207579
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Malaga" tvg-logo="http://myserveriptv.com:2082/images/0a8288ad500d6d0fa7128116cfe24501.png" group-title="Spain",ES: Canal Malaga
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207588
+#EXTINF:-1 tvg-id="" tvg-name="ES: Alternativa TV" tvg-logo="http://myserveriptv.com:2082/images/35408acf227bde0173cb01d0cce953ea.png" group-title="Spain",ES: Alternativa TV
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207580
+#EXTINF:-1 tvg-id="" tvg-name="➤ Kids" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="Spain",➤ Kids
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/225738
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Panda" tvg-logo="http://myserveriptv.com:2082/images/1b06315a57771437f7df9a1f04f31cbf.png" group-title="Spain",ES: Canal Panda
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136096
+#EXTINF:-1 tvg-id="" tvg-name="ES: Boing" tvg-logo="http://myserveriptv.com:2082/images/8dc7bb398c00c18dee08d6ffb0d7c38f.png" group-title="Spain",ES: Boing
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136092
+#EXTINF:-1 tvg-id="" tvg-name="ES: Baby TV" tvg-logo="http://myserveriptv.com:2082/images/93f73ccbb1b6c3e0e8ae92c4552a5542.png" group-title="Spain",ES: Baby TV
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/143564
+#EXTINF:-1 tvg-id="" tvg-name="ES: Disney Channel" tvg-logo="http://myserveriptv.com:2082/images/f240a4a08ef4d49a9b643168779d8491.png" group-title="Spain",ES: Disney Channel
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136089
+#EXTINF:-1 tvg-id="" tvg-name="ES: Disney Junior" tvg-logo="http://myserveriptv.com:2082/images/56ea68604747cd9d2f29655fc8465f45.png" group-title="Spain",ES: Disney Junior
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136090
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nickelodeon" tvg-logo="http://myserveriptv.com:2082/images/cce585460ae0a79d61b104664fd4ad89.png" group-title="Spain",ES: Nickelodeon
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136094
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nick Junior" tvg-logo="http://myserveriptv.com:2082/images/baf9de9c28fc83e02a855636615b4dab.png" group-title="Spain",ES: Nick Junior
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136095
+#EXTINF:-1 tvg-id="" tvg-name="➤ EDU and DOC" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="Spain",➤ EDU and DOC
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/225740
+#EXTINF:-1 tvg-id="" tvg-name="ES: Discovery Channel" tvg-logo="http://myserveriptv.com:2082/images/e42be2028f3a5db71c140fef7d466508.png" group-title="Spain",ES: Discovery Channel
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136037
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Historia" tvg-logo="http://myserveriptv.com:2082/images/04aeeaf8d3cb6409f2d3071be843233c.png" group-title="Spain",ES: Canal Historia
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136038
+#EXTINF:-1 tvg-id="" tvg-name="ES: Crimen And Investigacion" tvg-logo="http://myserveriptv.com:2082/images/61ba08e3d64812756330e6660e09d9b3.png" group-title="Spain",ES: Crimen And Investigacion
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207592
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nat Geo Wild" tvg-logo="http://myserveriptv.com:2082/images/03fffb1d10688007866188a8aca33d44.png" group-title="Spain",ES: Nat Geo Wild
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136040
+#EXTINF:-1 tvg-id="" tvg-name="ES: DKiss" tvg-logo="http://myserveriptv.com:2082/images/137564c0fe5c94a15c76973a744defe2.png" group-title="Spain",ES: DKiss
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207092
+#EXTINF:-1 tvg-id="" tvg-name="➤ Films" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="Spain",➤ Films
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/225742
+#EXTINF:-1 tvg-id="" tvg-name="ES: #0" tvg-logo="http://myserveriptv.com:2082/images/d3d9446802a44259755d38e6d163e820.png" group-title="Spain",ES: #0
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136051
+#EXTINF:-1 tvg-id="" tvg-name="ES: Clan" tvg-logo="http://myserveriptv.com:2082/images/eebb237021a762fb2b8af4532c8d8d20.png" group-title="Spain",ES: Clan
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136093
+#EXTINF:-1 tvg-id="" tvg-name="ES: Divinity" tvg-logo="http://myserveriptv.com:2082/images/fa0199b9bdef36107169321703175dcc.png" group-title="Spain",ES: Divinity
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136091
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bom Cine" tvg-logo="http://myserveriptv.com:2082/images/ba82cbfd9088b1017e7434e18a07fd89.png" group-title="Spain",ES: Bom Cine
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136084
+#EXTINF:-1 tvg-id="" tvg-name="ES: Sundance" tvg-logo="http://myserveriptv.com:2082/images/7858d400a05dc3c43bf1a66d868f26d3.png" group-title="Spain",ES: Sundance
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136087
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN" tvg-logo="http://myserveriptv.com:2082/images/2dc4dc9dedc983a9676e40c7756d227d.png" group-title="Spain",ES: AXN
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136053
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN White" tvg-logo="http://myserveriptv.com:2082/images/2dc4dc9dedc983a9676e40c7756d227d.png" group-title="Spain",ES: AXN White
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136054
+#EXTINF:-1 tvg-id="" tvg-name="ES: Atreseries" tvg-logo="http://myserveriptv.com:2082/images/b8985ea0dc3387dcdac4c010c9edb00a.png" group-title="Spain",ES: Atreseries
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/15516
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Cine Español" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="Spain",ES: Movistar Cine Español
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136066
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Series" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="Spain",ES: Movistar Series
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136073
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Drama" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="Spain",ES: Movistar Drama
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136071
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Accion" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="Spain",ES: Movistar Accion
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136065
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Comedia" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="Spain",ES: Movistar Comedia
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136068
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Estrenos" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="Spain",ES: Movistar Estrenos
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136072
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Clasicos" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="Spain",ES: Movistar Clasicos
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207564
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Fest" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="Spain",ES: Movistar Fest
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207563
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Dark" tvg-logo="http://myserveriptv.com:2082/images/95c3fd1d302be7d81e849be91fea2f29.png" group-title="Spain",ES: Canal Dark
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/20978
+#EXTINF:-1 tvg-id="" tvg-name="ES: Be Mad" tvg-logo="http://myserveriptv.com:2082/images/fdc1fc4b9f13094d4384e30c4dc241d9.png" group-title="Spain",ES: Be Mad
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/139690
+#EXTINF:-1 tvg-id="" tvg-name="ES: Alquiler 1" tvg-logo="http://myserveriptv.com:2082/images/5d777c2c19c3f54503d6e5ca429c3522.png" group-title="Spain",ES: Alquiler 1
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207541
+#EXTINF:-1 tvg-id="" tvg-name="ES: Alquiler 2" tvg-logo="http://myserveriptv.com:2082/images/5d777c2c19c3f54503d6e5ca429c3522.png" group-title="Spain",ES: Alquiler 2
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207542
+#EXTINF:-1 tvg-id="" tvg-name="ES: Alquiler 3" tvg-logo="http://myserveriptv.com:2082/images/5d777c2c19c3f54503d6e5ca429c3522.png" group-title="Spain",ES: Alquiler 3
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207543
+#EXTINF:-1 tvg-id="" tvg-name="ES: Alquiler 4" tvg-logo="http://myserveriptv.com:2082/images/5d777c2c19c3f54503d6e5ca429c3522.png" group-title="Spain",ES: Alquiler 4
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/225316
+#EXTINF:-1 tvg-id="" tvg-name="ES: Alquiler 5" tvg-logo="http://myserveriptv.com:2082/images/5d777c2c19c3f54503d6e5ca429c3522.png" group-title="Spain",ES: Alquiler 5
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207545
+#EXTINF:-1 tvg-id="" tvg-name="ES: Alquiler 6" tvg-logo="http://myserveriptv.com:2082/images/5d777c2c19c3f54503d6e5ca429c3522.png" group-title="Spain",ES: Alquiler 6
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207561
+#EXTINF:-1 tvg-id="" tvg-name="ES: Alquiler 7" tvg-logo="http://myserveriptv.com:2082/images/5d777c2c19c3f54503d6e5ca429c3522.png" group-title="Spain",ES: Alquiler 7
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207612
+#EXTINF:-1 tvg-id="" tvg-name="ES: Alquiler 8" tvg-logo="http://myserveriptv.com:2082/images/5d777c2c19c3f54503d6e5ca429c3522.png" group-title="Spain",ES: Alquiler 8
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136004
+#EXTINF:-1 tvg-id="" tvg-name="ES: Alquiler 9" tvg-logo="http://myserveriptv.com:2082/images/5d777c2c19c3f54503d6e5ca429c3522.png" group-title="Spain",ES: Alquiler 9
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136005
+#EXTINF:-1 tvg-id="" tvg-name="ES: Alquiler 10" tvg-logo="http://myserveriptv.com:2082/images/5d777c2c19c3f54503d6e5ca429c3522.png" group-title="Spain",ES: Alquiler 10
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136006
+#EXTINF:-1 tvg-id="" tvg-name="➤ Regional" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="Spain",➤ Regional
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/225745
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal 24 Horas" tvg-logo="http://myserveriptv.com:2082/images/f5b476ed6b708aa2dc53db5ca272930b.png" group-title="Spain",ES: Canal 24 Horas
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136025
+#EXTINF:-1 tvg-id="" tvg-name="ES: Aragon TV" tvg-logo="http://myserveriptv.com:2082/images/19fe905073905b978b30d5bd9272f145.png" group-title="Spain",ES: Aragon TV
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207581
+#EXTINF:-1 tvg-id="" tvg-name="ES: Ribera TV" tvg-logo="http://myserveriptv.com:2082/images/09049a72aa9465ea10d454d5535624a3.png" group-title="Spain",ES: Ribera TV
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207606
+#EXTINF:-1 tvg-id="" tvg-name="ES: Calle 13" tvg-logo="http://myserveriptv.com:2082/images/27e62b6fec845849abdfdc102f1e1a4d.png" group-title="Spain",ES: Calle 13
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136074
+#EXTINF:-1 tvg-id="" tvg-name="ES: Costadelsol TV" tvg-logo="http://myserveriptv.com:2082/images/1860daf1317bc85fc96816a08c8d5d03.png" group-title="Spain",ES: Costadelsol TV
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207591
+#EXTINF:-1 tvg-id="" tvg-name="ES: Lancelot TV" tvg-logo="http://myserveriptv.com:2082/images/70c065ef09195f0ec0ee0f7165a5195f.png" group-title="Spain",ES: Lancelot TV
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207600
+#EXTINF:-1 tvg-id="" tvg-name="ES: Levante TV" tvg-logo="http://myserveriptv.com:2082/images/f21f8165584b530b05e26d088bdad4bf.png" group-title="Spain",ES: Levante TV
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207601
+#EXTINF:-1 tvg-id="" tvg-name="ES: Melilla TV" tvg-logo="http://myserveriptv.com:2082/images/a5d0a891d885e3491c4e2b3cd32b692e.png" group-title="Spain",ES: Melilla TV
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207602
+#EXTINF:-1 tvg-id="" tvg-name="ES: Solidaria TV" tvg-logo="http://myserveriptv.com:2082/images/f62afa94074a5d561b949207b13d6c73.png" group-title="Spain",ES: Solidaria TV
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207608
+#EXTINF:-1 tvg-id="" tvg-name="ES: TeleMadrid" tvg-logo="http://myserveriptv.com:2082/images/88b81cb431e37b8eeededb48879f10cd.png" group-title="Spain",ES: TeleMadrid
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207609
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Sur" tvg-logo="http://myserveriptv.com:2082/images/3b8bbe65bdd30c289f7521c10a8800ed.png" group-title="Spain",ES: Canal Sur
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207538
+#EXTINF:-1 tvg-id="" tvg-name="ES: Mega" tvg-logo="http://myserveriptv.com:2082/images/4f471de7a5dcfea58f059c4f156b0490.png" group-title="Spain",ES: Mega
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136026
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cuatro" tvg-logo="http://myserveriptv.com:2082/images/169f0c5b887642049db5050c8c765ad4.png" group-title="Spain",ES: Cuatro
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136022
+#EXTINF:-1 tvg-id="" tvg-name="ES: FDF" tvg-logo="http://myserveriptv.com:2082/images/c2b62d99c2c1453be93ba00d3a413219.png" group-title="Spain",ES: FDF
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/136034
+#EXTINF:-1 tvg-id="" tvg-name="ES: C33 Madrid" tvg-logo="http://myserveriptv.com:2082/images/0bb3566c592b6dd2d1a92225597ad848.png" group-title="Spain",ES: C33 Madrid
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207583
