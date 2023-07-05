@@ -1,99 +1,85 @@
 #EXTM3U
-#EXTINF:-1,DESCARGA LISTAS M3U APK OFICIAL
-https://tecnomasterapp.tk/descarga/listasm3u.mp4
-#EXTINF:-1,A&E HD
-http://181.78.24.187:8006/play/a002/index.m3u8
-#EXTINF:-1,AMC HD
-http://181.78.24.187:8006/play/a06j/index.m3u8
-#EXTINF:-1,AXN HD
-http://181.78.24.187:8006/play/a005/index.m3u8
-#EXTINF:-1,Animal Planet HD
-http://181.78.24.187:8006/play/a088/index.m3u8
-#EXTINF:-1,Cable Noticias
-http://181.78.24.187:8006/play/a0br/index.m3u8
-#EXTINF:-1,Canal 24 Horas HD
-http://181.78.24.187:8006/play/a0b6/index.m3u8
-#EXTINF:-1,Caracol HD
-http://181.78.24.187:8006/play/a0bb/index.m3u8
-#EXTINF:-1,Cinecanal HD
-http://181.78.24.187:8006/play/a06i/index.m3u8
-#EXTINF:-1,City TV
-http://181.78.24.187:8006/play/a0c5/index.m3u8
-#EXTINF:-1,DISCOVERY TURBO LISTA DE EMERGENCIA
-http://181.78.24.187:8006/play/a09m/index.m3u8
-#EXTINF:-1,Discovery H&H HD
-http://181.78.24.187:8006/play/a085/index.m3u8
-#EXTINF:-1,Discovery HD  
-http://181.78.24.187:8006/play/a089/index.m3u8
-#EXTINF:-1,Discovery Kids HD
-http://181.78.24.187:8006/play/a084/index.m3u8
-#EXTINF:-1,Discovery Theater HD
-http://181.78.24.187:8006/play/a08d/index.m3u8
-#EXTINF:-1,Discovery World HD
-http://181.78.24.187:8006/play/a087/index.m3u8
-#EXTINF:-1,Disney HD
-http://181.78.24.187:8006/play/a066/index.m3u8
-#EXTINF:-1,E! HD
-http://181.78.24.187:8006/play/a06n/index.m3u8
-#EXTINF:-1,ESPN
-http://181.78.24.187:8006/play/a0c9/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://181.78.24.187:8006/play/a006/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://181.78.24.187:8006/play/a067/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://181.78.24.187:8006/play/a06e/index.m3u8
-#EXTINF:-1,ESPN EXTRA HD
-http://181.78.24.187:8006/play/a0b2/index.m3u8
-#EXTINF:-1,El Gourmet HD
-http://181.78.24.187:8006/play/a06a/index.m3u8
-#EXTINF:-1,FOX Sports 2 HD
-http://181.78.24.187:8006/play/a06f/index.m3u8
-#EXTINF:-1,FX HD
-http://181.78.24.187:8006/play/a06g/index.m3u8
-#EXTINF:-1,Fox Sports 1 HD
-http://181.78.24.187:8006/play/a0ag/index.m3u8
-#EXTINF:-1,Fox Sports 3 HD
-http://181.78.24.187:8006/play/a068/index.m3u8
-#EXTINF:-1,France 24 HD
-http://181.78.24.187:8006/play/a0b9/index.m3u8
-#EXTINF:-1,Golden HD
-http://181.78.24.187:8006/play/a06l/index.m3u8
-#EXTINF:-1,History 2 HD
-http://181.78.24.187:8006/play/a06q/index.m3u8
-#EXTINF:-1,History Channel HD
-http://181.78.24.187:8006/play/a001/index.m3u8
-#EXTINF:-1,ID HD
-http://181.78.24.187:8006/play/a08c/index.m3u8
-#EXTINF:-1,Las Estrellas HD
-http://181.78.24.187:8006/play/a09e/index.m3u8
-#EXTINF:-1,MÆsChic
-http://181.78.24.187:8006/play/a0aw/index.m3u8
-#EXTINF:-1,Nat Geo HD
-http://181.78.24.187:8006/play/a06h/index.m3u8
-#EXTINF:-1,RCN HD
-http://181.78.24.187:8006/play/a0bk/index.m3u8
-#EXTINF:-1,STAR CHANNEL HD
-http://181.78.24.187:8006/play/a06c/index.m3u8
-#EXTINF:-1,Sony HD
-http://181.78.24.187:8006/play/a003/index.m3u8
-#EXTINF:-1,Studio Universal HD
-http://181.78.24.187:8006/play/a06k/index.m3u8
-#EXTINF:-1,Sun Channel HD
-http://181.78.24.187:8006/play/a06b/index.m3u8
-#EXTINF:-1,SyFy
-http://181.78.24.187:8006/play/a0c0/index.m3u8
-#EXTINF:-1,TELECAFE - CANAL-81
-http://181.78.24.187:8006/play/a0a0/index.m3u8
-#EXTINF:-1,TLC
-http://181.78.24.187:8006/play/a0c6/index.m3u8
-#EXTINF:-1,TNT Series HD
-http://181.78.24.187:8006/play/a0b3/index.m3u8
-#EXTINF:-1,Telehit HD
-http://181.78.24.187:8006/play/a06m/index.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://181.78.24.187:8006/play/a06d/index.m3u8
-#EXTINF:-1,Warner Channel HD
-http://181.78.24.187:8006/play/a004/index.m3u8
-#EXTINF:-1,Win Sports HD
-http://181.78.24.187:8006/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="1 LAGUIER TV",LAGUIHER TV
+https://video.wixstatic.com/video/f09cbb_0858fce77b76424b88a641a05b581117/720p/mp4/file.mp4
+#EXTINF:-1,Latino | A&E 
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y9hzs7rpkZYzRAhWY2jHPQm/m3u8
+#EXTINF:-1,Latino | ACM
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y97I825alXQXs_Iv-DSdsl8/m3u8
+#EXTINF:-1,Latino | AXN
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y8g6Mxq2Zvu9FKNRUqDev-F/m3u8
+#EXTINF:-1,Latino | AXN WHITE
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y860Yug-DaJNdvst7hcCkMp/m3u8
+#EXTINF:-1,Latino | CINE LATINO
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y_KCqHrqRtqxf4So5hln6Vx/m3u8
+#EXTINF:-1,Latino | CINECANAL
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y8r8MaWAL4MRBYiDlS4Qric/m3u8
+#EXTINF:-1,Latino | CINE DINAMITA
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y8Slw-oR-I1GTl1LDC8GcNT/m3u8
+#EXTINF:-1,Latino | CINEMAX
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y9RWqV45jVpQPsloiBiQe_v/m3u8
+#EXTINF:-1,Latino | CLARO CINEMA
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y8PW22RMx6fjD8vPXBUi4Eh/m3u8
+#EXTINF:-1,Latino | DARK
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y-CuwIW97EWJ8tlvtQ_FizW/m3u8
+#EXTINF:-1,Latino | DE PELICULA
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y_L9Ny2QmL0rKNz-qmhvYyC/m3u8
+#EXTINF:-1,Latino | DE PELICULA CLASICO
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y__uRKv7v285kWDRHNXZ2qj/m3u8
+#EXTINF:-1,Latino | DHE
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y_6qRcJtOFDWhxNj9vbyLGb/m3u8
+#EXTINF:-1,Latino | DMAX
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y9Q4K1iCXFllgUdLciulff5/m3u8
+#EXTINF:-1,Latino | CINE EUROPA
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y-b5NUsUlnJVF4nUN6nhl6T/m3u8
+#EXTINF:-1,Latino | FX
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y-rBssfIBDjadz701MQqSiA/m3u8
+#EXTINF:-1,Latino | GOLDEN
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y80fXA4sgKBW0UgS_H85S4H/m3u8
+#EXTINF:-1,Latino | GOLDEN EDGE
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y-VEl7b8lVM9H2r7eyKau57/m3u8
+#EXTINF:-1,Latino | GOLDEN PLUS
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y9oMek70n5LLHuCemMJ8FuP/m3u8
+#EXTINF:-1,Latino | GOLDEN PREMIER
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y_nglpaVTdYlaimbQgW2Zsy/m3u8
+#EXTINF:-1,Latino | HBO
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y8VEoHSk-3wLouBgAyOroIM/m3u8
+#EXTINF:-1,Latino | HBO 2
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y-WiZilm-1zfz-Yxo-LoPgB/m3u8
+#EXTINF:-1,Latino | HBO FAMILY
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y8b5y5w9ykFp1boZbbr86w2/m3u8
+#EXTINF:-1,Latino | HBO PLUS
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y97fevP_jGInT0XMIPC2962/m3u8
+#EXTINF:-1,Latino | HBO POP
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y8SubfKZz59-ryKnwBf_EzH/m3u8
+#EXTINF:-1,Latino | HBO SIGNATURE
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y-VxypUsy6-Q-6-N0vdh2dA/m3u8
+#EXTINF:-1,Latino | HBO EXTREME
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y_EoEK4hX0otcD55SLntmPc/m3u8
+#EXTINF:-1,Latino | I.SAT
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y_vWnMhjvO_CvGXuK__2gFR/m3u8
+#EXTINF:-1,Latino | OUTERMAX
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y_VuLkfbp12KiMSBXqfPqsr/m3u8
+#EXTINF:-1,Latino | PARAMOUNT CHANNEL
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y_VuLkfbp12KiMSBXqfPqsr/m3u8
+#EXTINF:-1,Latino | SONY
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y_LQSiJJPQ9QOdLSxcKOiM2/m3u8
+#EXTINF:-1,Latino | SPACE
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y8a8JET3hFClDJ0eSanQVPu/m3u8
+#EXTINF:-1,Latino | START CHANNEL
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y9hFKWAii7XtPhmKzFmFB5t/m3u8
+#EXTINF:-1,Latino | TCM
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y-YCub2BhBGSUSZ_bCxiudM/m3u8
+#EXTINF:-1,Latino | TNT
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y8eIDZ9Xo-d6ULvXLaqGvbU/m3u8
+#EXTINF:-1,Latino | TNT SERIES 
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y_htnvT6aw19eg2uLk1rK2n/m3u8
+#EXTINF:-1,Latino | UNIVERSAL CHANNEL
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y8RahRdZ-oyUJg3gG8jSCZ-/m3u8
+#EXTINF:-1,Latino | UNIVERSAL CINEMA
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y8d2AQIyzUFJYPOT-NP2Ejh/m3u8
+#EXTINF:-1,Latino | UNIVERSAL CRIME
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y9c-2TwUOUK4L3_z_aDSAed/m3u8
+#EXTINF:-1,Latino | UNIVERSAL PREMIERE
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y-y10XhSmJB5fY-cd1Llfse/m3u8
+#EXTINF:-1,Latino | WARNER CHANNEL
+http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y_v-d1xBDAzi7N0LME2RZFk/m3u8
