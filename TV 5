@@ -1,85 +1,85 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1 LAGUIER TV",LAGUIHER TV
 https://video.wixstatic.com/video/f09cbb_0858fce77b76424b88a641a05b581117/720p/mp4/file.mp4
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png", group title="LATINO",A&E
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png", group title="LATINO",A&E
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y9hzs7rpkZYzRAhWY2jHPQm/m3u8
-#EXTINF:-1,tvg-logo="https://www.amctv.la/wp-content/themes/amc-global-redesign/assets/images/amc/placeholder_16x9.jpg", group title="LATINO",ACM
+#EXTINF:-1 tvg-logo="https://www.amctv.la/wp-content/themes/amc-global-redesign/assets/images/amc/placeholder_16x9.jpg", group title="LATINO",ACM
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y97I825alXQXs_Iv-DSdsl8/m3u8
-#EXTINF:-1,tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d2/67/63/d26763c9-b38d-939a-8641-741e051940ab/AppIcon-1x_U007emarketing-0-6-0-85-220.png/1200x600wa.png", group title="LATINO",AXN
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d2/67/63/d26763c9-b38d-939a-8641-741e051940ab/AppIcon-1x_U007emarketing-0-6-0-85-220.png/1200x600wa.png", group title="LATINO",AXN
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y8g6Mxq2Zvu9FKNRUqDev-F/m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png", group title="LATINO",AXN WHITE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png", group title="LATINO",AXN WHITE
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y860Yug-DaJNdvst7hcCkMp/m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/1200px-Cine_Latino_logo.svg.png", group title="LATINO",CINELATINO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/1200px-Cine_Latino_logo.svg.png", group title="LATINO",CINELATINO
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y_KCqHrqRtqxf4So5hln6Vx/m3u8
-#EXTINF:-1,tvg-logo="https://www.totalmedios.com/img/noticias/2018/09/5b965cd2a443c__838x390.jpg", group title="LATINO",CINECANAL
+#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2018/09/5b965cd2a443c__838x390.jpg", group title="LATINO",CINECANAL
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y8r8MaWAL4MRBYiDlS4Qric/m3u8
-#EXTINF:-1,tvg-logo="https://w7.pngwing.com/pngs/724/805/png-transparent-canal-cinema-dynamite-cinematography-cinema-dinamita-dynamite-text-logo-brand.png", group title="LATINO",CINEDINAMITA
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/724/805/png-transparent-canal-cinema-dynamite-cinematography-cinema-dinamita-dynamite-text-logo-brand.png", group title="LATINO",CINEDINAMITA
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y8Slw-oR-I1GTl1LDC8GcNT/m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/2560px-Cinemax_%28Yellow%29.svg.png", group title="LATINO",CINEMAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/2560px-Cinemax_%28Yellow%29.svg.png", group title="LATINO",CINEMAX
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y9RWqV45jVpQPsloiBiQe_v/m3u8
-#EXTINF:-1,tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/large.gallery_5692_7_22692.png.5073d87c691d5cad922215862df26643.png", group title="LATINO",CLAROCINEMA
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/large.gallery_5692_7_22692.png.5073d87c691d5cad922215862df26643.png", group title="LATINO",CLAROCINEMA
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y8PW22RMx6fjD8vPXBUi4Eh/m3u8
-#EXTINF:-1,tvg-logo="https://i.pinimg.com/736x/3d/bb/f1/3dbbf16f1c6b1b278d40b57eafb8eba6--graphic-design-logos-logo-design.jpg", group title="LATINO",DARK
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/3d/bb/f1/3dbbf16f1c6b1b278d40b57eafb8eba6--graphic-design-logos-logo-design.jpg", group title="LATINO",DARK
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y-CuwIW97EWJ8tlvtQ_FizW/m3u8
-#EXTINF:-1,tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo-2012.png", group title="LATINO",DEPELICULA
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo-2012.png", group title="LATINO",DEPELICULA
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y_L9Ny2QmL0rKNz-qmhvYyC/m3u8
-#EXTINF:-1,tvg-logo="https://cdn.mitvstatic.com/channels/mx_de-pelicula_m.png", group title="LATINO",DEPELICULA CLASICO
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_de-pelicula_m.png", group title="LATINO",DEPELICULA CLASICO
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y__uRKv7v285kWDRHNXZ2qj/m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/2560px-2020_Canal_DHE_logo.svg.png", group title="LATINO",DHE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/2560px-2020_Canal_DHE_logo.svg.png", group title="LATINO",DHE
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y_6qRcJtOFDWhxNj9vbyLGb/m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png", group title="LATINO",DMAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png", group title="LATINO",DMAX
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y9Q4K1iCXFllgUdLciulff5/m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png", group title="LATINO",CINE EUROPA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png", group title="LATINO",CINE EUROPA
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y-b5NUsUlnJVF4nUN6nhl6T/m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/2560px-FX_International_logo.svg.png", group title="LATINO",FX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/2560px-FX_International_logo.svg.png", group title="LATINO",FX
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y-rBssfIBDjadz701MQqSiA/m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png", group title="LATINO",GOLDEN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png", group title="LATINO",GOLDEN
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y80fXA4sgKBW0UgS_H85S4H/m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Golden_Edge_Logo.png", group title="LATINO",GOLDEN EDGE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Golden_Edge_Logo.png", group title="LATINO",GOLDEN EDGE
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y-VEl7b8lVM9H2r7eyKau57/m3u8
-#EXTINF:-1,tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.GoldenPlus.png.2bb811abb24ea652e0afb3148038747e.png", group title="LATINO",GOLDEN PLUS
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.GoldenPlus.png.2bb811abb24ea652e0afb3148038747e.png", group title="LATINO",GOLDEN PLUS
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y9oMek70n5LLHuCemMJ8FuP/m3u8
-#EXTINF:-1,tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfnT8Etb9rkVUqlZqkBAOMR4n1h1R2AT654J4aiE9m27URDx_G3pXO9aS2FLYa_3HFuLm92vprvUSjt-LLTgQEd8GseKkEnFhHfFSULJGZYEk1ElRn7BnAH0tq2WtgJjIbpAcQV6BK9lz09GdvEwwNfQJ7sQHUgXNLAckCHu9Z3dAvunEvSTuF1AbS/s1600/golden-premier.jpg", group title="LATINO",GOLDEN PREMIER
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfnT8Etb9rkVUqlZqkBAOMR4n1h1R2AT654J4aiE9m27URDx_G3pXO9aS2FLYa_3HFuLm92vprvUSjt-LLTgQEd8GseKkEnFhHfFSULJGZYEk1ElRn7BnAH0tq2WtgJjIbpAcQV6BK9lz09GdvEwwNfQJ7sQHUgXNLAckCHu9Z3dAvunEvSTuF1AbS/s1600/golden-premier.jpg", group title="LATINO",GOLDEN PREMIER
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y_nglpaVTdYlaimbQgW2Zsy/m3u8
-#EXTINF:-1,tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/logo-HBO.png", group title="LATINO",HBO
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/logo-HBO.png", group title="LATINO",HBO
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y8VEoHSk-3wLouBgAyOroIM/m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png", group title="LATINO",HBO 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png", group title="LATINO",HBO 2
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y-WiZilm-1zfz-Yxo-LoPgB/m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png", group title="LATINO",HBO FAMILY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png", group title="LATINO",HBO FAMILY
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y8b5y5w9ykFp1boZbbr86w2/m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png", group title="LATINO",HBO PLUS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png", group title="LATINO",HBO PLUS
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y97fevP_jGInT0XMIPC2962/m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/2560px-HBO_Pop.svg.png", group title="LATINO",HBO POP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/2560px-HBO_Pop.svg.png", group title="LATINO",HBO POP
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y8SubfKZz59-ryKnwBf_EzH/m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png", group title="LATINO",HBO SIGNATURE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png", group title="LATINO",HBO SIGNATURE
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y-VxypUsy6-Q-6-N0vdh2dA/m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/2560px-HBO_Xtreme.svg.png", group title="LATINO",HBO EXTREME
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/2560px-HBO_Xtreme.svg.png", group title="LATINO",HBO EXTREME
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y_EoEK4hX0otcD55SLntmPc/m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1280px-I.Sat_logo.svg.png", group title="LATINO",I.SAT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1280px-I.Sat_logo.svg.png", group title="LATINO",I.SAT
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y_vWnMhjvO_CvGXuK__2gFR/m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/OuterMax_Logo.svg/1200px-OuterMax_Logo.svg.png", group title="LATINO",OUTERMAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/OuterMax_Logo.svg/1200px-OuterMax_Logo.svg.png", group title="LATINO",OUTERMAX
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y_VuLkfbp12KiMSBXqfPqsr/m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png", group title="LATINO",PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png", group title="LATINO",PARAMOUNT CHANNEL
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y_VuLkfbp12KiMSBXqfPqsr/m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Sony_logo.svg/1024px-Sony_logo.svg.png", group title="LATINO",SONY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Sony_logo.svg/1024px-Sony_logo.svg.png", group title="LATINO",SONY
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y_LQSiJJPQ9QOdLSxcKOiM2/m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png", group title="LATINO",SPACE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png", group title="LATINO",SPACE
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y8a8JET3hFClDJ0eSanQVPu/m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png", group title="LATINO",START CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png", group title="LATINO",START CHANNEL
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y9hFKWAii7XtPhmKzFmFB5t/m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png", group title="LATINO",TCM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png", group title="LATINO",TCM
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y-YCub2BhBGSUSZ_bCxiudM/m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png", group title="LATINO",TNT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png", group title="LATINO",TNT
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y8eIDZ9Xo-d6ULvXLaqGvbU/m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png", group title="LATINO",TNT SERIES 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png", group title="LATINO",TNT SERIES 
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y_htnvT6aw19eg2uLk1rK2n/m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/2560px-Universal_Channel_Logo_2013.svg.png", group title="LATINO",UNIVERSAL CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/2560px-Universal_Channel_Logo_2013.svg.png", group title="LATINO",UNIVERSAL CHANNEL
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y8RahRdZ-oyUJg3gG8jSCZ-/m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png", group title="LATINO",UNIVERSAL CINEMA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png", group title="LATINO",UNIVERSAL CINEMA
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y8d2AQIyzUFJYPOT-NP2Ejh/m3u8
-#EXTINF:-1,tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-crime-dark-logo.png", group title="LATINO",UNIVERSAL CRIME
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-crime-dark-logo.png", group title="LATINO",UNIVERSAL CRIME
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y9c-2TwUOUK4L3_z_aDSAed/m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png", group title="LATINO",UNIVERSAL PREMIERE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png", group title="LATINO",UNIVERSAL PREMIERE
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y-y10XhSmJB5fY-cd1Llfse/m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png", group title="LATINO",WARNER CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png", group title="LATINO",WARNER CHANNEL
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y_v-d1xBDAzi7N0LME2RZFk/m3u8
